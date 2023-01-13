@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import reportWebVitals from './reportWebVitals';
-//import App from './CustomHookPlayGround'
-//import ShowOrHide from './ShowOrHide';
-//import Timer from './Timer';
-//import ToDoList from './ToDoList'
-import DeleteText from './DeleteText'
+//import App from './Functions/CustomHookPlayGround'
+//import ShowOrHide from './Functions/ShowOrHide';
+//import Timer from './Functions/Timer';
+//import ToDoList from './Functions/ToDoList'
+import DeleteText from './Functions/DeleteText'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
